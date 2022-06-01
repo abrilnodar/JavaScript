@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "sweetalert": "^2.1.2"
+  },
+  "name": "inmigracion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrilnodar/Javascript.git"
+  },
+  "author": "abril nodar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrilnodar/Javascript/issues"
+  },
+  "homepage": "https://github.com/abrilnodar/Javascript#readme",
+  "description": ""
+}

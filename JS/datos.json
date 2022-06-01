@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camilia Muller",
+        "penalista":"no",
+        "imagen":"../imagenes/camila.jpg",
+        "matricula": 3125,
+        "info":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet leo sed enim euismod cursus. Ut luctus vehicula magna, at auctor tellus viverra id."
+    },
+    {
+        "id": 2,
+        "nombre":  "Maria Lourdes Valdez",
+        "penalista":"no",
+        "imagen":"../imagenes/maria.jpg",
+        "matricula": 4055,
+        "info":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet leo sed enim euismod cursus. Ut luctus vehicula magna, at auctor tellus viverra id."
+    },
+    {
+        "id": 3,
+        "nombre": "Jaun Manuel Santos",
+        "penalista":"si",
+        "imagen":"../imagenes/juan.jpg",
+        "matricula": 8350,
+        "info":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet leo sed enim euismod cursus. Ut luctus vehicula magna, at auctor tellus viverra id."
+    },
+    {
+        "id": 4,
+        "nombre": "Micaela Minatti",
+        "penalista":"si",
+        "imagen":"../imagenes/micaela.jpg",
+        "matricula": 2050,
+        "info":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet leo sed enim euismod cursus. Ut luctus vehicula magna, at auctor tellus viverra id."
+    },
+    {
+        "id": 5,
+        "nombre": "Feliciano Beckley Cortez",
+        "penalista":"si",
+        "imagen": "../imagenes/federico.jpg",
+        "matricula": 1780,
+        "info":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet leo sed enim euismod cursus. Ut luctus vehicula magna, at auctor tellus viverra id."
+    }
+]

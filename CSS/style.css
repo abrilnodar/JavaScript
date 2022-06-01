@@ -1,0 +1,68 @@
+/* Globales */
+html{
+    padding: 0px;
+    margin: 0px;
+    font-size: 62.5%;
+    box-sizing: border-box;
+    scroll-snap-type: y mandatory;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+body{
+    background-color: rgb(224, 220, 220);
+    font-size: medium;
+}
+.contenedor{
+    margin: 0 1rem;
+}
+a {
+    color: rgb(76, 76, 76);
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Navbar */
+
+
+
+.logo{
+    width: 7rem;
+}
+
+.logo:hover{
+    width: 8rem;
+    transition: 0.2s;
+}
+.navBar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    background-color: rgb(138, 138, 138);
+}
+
+.navBar a:hover{
+    transform: 0.2;
+    font-size: 1.8rem;
+    color: black;
+}
+
+/* Nosotros */
+
+
+.sub3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+.abogados{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
