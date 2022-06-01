@@ -66,3 +66,16 @@ h1{
     flex-direction: row;
     gap: 2rem;
 }
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: rgb(65, 65, 65)
+}
+
+.footer svg:hover{
+    opacity: 0.5;
+}
